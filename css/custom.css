@@ -1,1 +1,19 @@
-/* Your custom css code goes here */
+.fotoPerfil{
+    border-radius: 50%; 
+    max-width: 40%;
+    margin-left: 20%;
+}
+
+div.gallery {
+    margin: 5px;
+    float: left;
+    width: 30%;
+}
+
+
+div.gallery img {
+    width: 70%;
+    height: auto;
+    border-radius: 5%;
+    
+}
