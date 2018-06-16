@@ -17,3 +17,33 @@ div.gallery img {
     border-radius: 5%;
     
 }
+
+
+.Kofi{
+    max-width: 15%;
+    max-width: 15%;
+
+}
+
+.email {
+    font-size: 150%;
+  }
+
+@media screen and (max-width: 768px) {
+    .email {
+      font-size: 100%;
+    }
+  }
+
+  .iconCoffee{
+      max-width: 50px;
+      max-height: 50px;
+  }
+
+  .iconConteudo{
+    max-width: 80px;
+}
+
+.fotoClass{
+    max-height: 50%;
+}
